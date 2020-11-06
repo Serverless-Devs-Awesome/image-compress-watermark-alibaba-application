@@ -1,0 +1,25 @@
+Type: Application
+Name: image-compress-watermar
+Version: 0.0.1
+Provider:
+  - Alibaba
+Description: 图像压缩与水印案例
+HomePage: https://github.com/Serverless-Devs-Awesome/image-compress-watermar-alibaba-application
+Tags:
+  - pillow
+  - 图像压缩
+  - 水印
+  - 图像处理
+Category: 图文处理
+Service:
+  函数计算:
+    Authorities:
+      - 创建函数
+      - 删除函数
+      - 创建服务
+      - 删除服务
+    Runtime: Python
+  对象存储:
+    Authorities:
+      - 创建存储桶
+      - 设置权限
