@@ -1,10 +1,10 @@
 Type: Application
-Name: image-compress-watermar
-Version: 0.0.1
+Name: image-compress-watermark
+Version: 0.0.2
 Provider:
   - Alibaba
 Description: 图像压缩与水印案例
-HomePage: https://github.com/Serverless-Devs-Awesome/image-compress-watermar-alibaba-application
+HomePage: https://github.com/Serverless-Devs-Awesome/image-compress-watermark-alibaba-application
 Tags:
   - pillow
   - 图像压缩
