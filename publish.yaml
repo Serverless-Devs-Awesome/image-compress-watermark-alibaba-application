@@ -2,7 +2,7 @@ Type: Application
 Name: image-compress-watermark
 Version: 0.0.2
 Provider:
-  - Alibaba
+  - 阿里云
 Description: 图像压缩与水印案例
 HomePage: https://github.com/Serverless-Devs-Awesome/image-compress-watermark-alibaba-application
 Tags:
